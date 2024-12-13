@@ -1,6 +1,6 @@
 #Define Variables
 number1 = 10
-number2 =5
+number2 = 5
 #Perform Arithmetic Operations
 sum_result = number1 + number2
 difference_result = number1 - number2
