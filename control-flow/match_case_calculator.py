@@ -23,7 +23,7 @@ def match_case_calculator():
     else:
         print("Invalid operation. Please choose +, -, *, or /.")
         return  # Exit the function
-    
+
     # Output the result
     print(f"The result is {result}.")
 
